@@ -1,0 +1,32 @@
+Answer to A:
+1. Individuals and Interactions Over Processes and Tools:
+   So if we wanted to make USIS into a software, rather than following a process with its scheduled timing and speficic 
+   contents it would be much better if the developement team goes over to BRAC and talk to the person-in-charge of this project 
+   and ask for his/hers wants and needs and follow the developement of the process accordingly.
+
+2. Working Software Over Comprehensive Documentation
+   Rather than making a whole documentation and spending days on it and waiting for the final date of the software delivery, 
+   we should rather focus on making a software that works and instead of bogging down specific details on how the software works 
+   we should make the documentation like a story where the user can easily start using the software rather than spending more time
+   on how to use it. Agile doesn't discourage documentation but it values working software more.
+   
+3. Customer Collaboration Over Contract Negotiation
+   Rather than making a contract and doing all the work after takling to the customer we should have a customer working wwith 
+   the developement team. What this does is the customer can check on a weekly or a monthly basis how the software is coming along 
+   and can even test it as an end-user, the customer can attend meetings if necessary as well to see if his/her needs are being met. 
+   A contract is important to have but doing this will also increase the credibility of the software.
+   
+4. Responding to Change Over Following a Plan
+   Rather than makin a big plan on the developement and following through on it, it is better to make the software according 
+   to the changing needs of the customer. This improves the software more according to current needs and it also adds more value
+   to it because a customer might want something new or different tomorrow than what he/she asked before.
+   
+
+
+Answer to C:
+Encapsulate field – force code to access the field with getter and setter methods
+Generalize type – create more general types to allow for more code sharing
+Replace type-checking code with state/strategy
+Replace conditional with polymorphism 
+Extract class moves part of the code from an existing class into a new class.
+Extract method, to turn part of a larger method into a new method. 
